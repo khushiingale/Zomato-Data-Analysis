@@ -81,10 +81,6 @@ pip install pandas numpy matplotlib seaborn
 ## 🤝 Contributing
 Feel free to fork and improve this project 😊  
 
----
-
-## 📄 License
-This project is open-source and available under the MIT License  
 
 ---
 
